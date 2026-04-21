@@ -30,7 +30,7 @@ This project introduces:
 Clone the repository and compile the project:
 
 ```bash id="2l7x9q"
-git clone <your-repository-url>
+git git@github.com:JoaodMesquita/get-next-line.git
 cd get_next_line
 make
 ```
